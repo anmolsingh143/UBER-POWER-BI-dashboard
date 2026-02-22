@@ -170,4 +170,4 @@ Aspiring Data Analyst | Business Intelligence Enthusiast
 
 📧 singhanmol9081@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/anmolpratapsingh431# UBER-POWER-BI-dashboard
+🔗 example: https://github.com/anmolsingh143/UBER-POWER-BI-dashboard/blob/main/Screenshot%202026-02-22%20201751.png
